@@ -16,10 +16,10 @@ timezone:
 
 title: s3khme1 # the main title
 
-tagline: Simple Student # it will display as the subtitle
+tagline: french cyber security enjoyer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  s3khme1 portofolio, dev project and some walkthroughts
+  walkthrough an code projects
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
