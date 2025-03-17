@@ -2,8 +2,10 @@
 title: "CC & CNI Classifier"
 date : 2024-05-26 04:56:00 +0008
 categories : Programation
-tag : [NSI]
+description : "[FR] Projet finale première NSI CC & CNI classifier w/ tenserflow lib"
+tag : [nsi, python]
 ---
+![Desktop View](/assets/img/post/tenserflowLogo.png)
 
 **Projet Final**
 
