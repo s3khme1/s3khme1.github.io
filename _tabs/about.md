@@ -18,7 +18,7 @@ order: 4
  - **CSAW 2024** redteam finalist (solo team)
  - **PTHD2025** #26 (duo team)
  - **Cyber Ninja CTF** finalist (solo)
-
+ - **Concours général des lycée** player (solo)
 ## projects
  - computer vision for **birdz** (WinerzApp)
  - CC & CNI generator + tenserflow trained classifier model
