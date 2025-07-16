@@ -27,4 +27,40 @@ find out how he came into contact with this mysterious superior.
 **Solution**
 
 Looking at the image, a rather suspicious site appears: Fabulous dog 
+![image](/assets/img/post/k1Dog.png)
+We go on the site then we can find the flag.
+
+**Flag : {fabulous-dogs-paradise.com}**
+
+## K2 : H4ck3r
+
+**Statement**
+
+We need to gather more information about the people behind this
+this organization. Find the pseudonym of the person to contact in the event of a
+problems.
+
+**Solution**
+
+By analyzing the source code of the page, and in particular that of the contact form
+we notice a comment: **<!-- Contact github.com/Sh4d0wD4sch if needed --<**
+
+![image](/assets/img/post/k2Site.png)
+
+**Flag : {Sh4d0wD4sch}**
+
+## K3 : Algorithmes Lyriques
+
+During questioning, the individual mentioned an application with a space-related name, which he would use to communicate with his superiors.
+that he would use to communicate with his superiors.
+Explore this lead and identify the political figure who could be linked to this
+mysterious group.
+
+We now have a github username : Sh4d0wD4sch
+
+Let's take a look at this github account.
+
+![image](/assets/img/post/k3Git.png)
+
+As we can see there is a repo on it.
 
