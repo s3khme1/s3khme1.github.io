@@ -64,3 +64,91 @@ Let's take a look at this github account.
 
 As we can see there is a repo on it.
 
+
+
+
+## K5 : Une sacrée histoire
+
+There are two other versions of the element that allowed you to discover the previous flag.
+Identify them in the order in which they appear.
+Reading articles about these famous medals embedded in the ground of the city of Clermont-Ferrand,
+we learn that two other illustrious historical figures from the city are represented: Vercingetorix and Urban II.
+The flag is a representation of the city's coat of arms.
+
+**Flag : {vercingetorix_urbain-II}**
+
+## K6 : Opsec failure
+
+As we can see the user Shadow only have one repo. We don't have that much information about it.
+Except one, he made a commit. 
+
+![image](/assets/img/post/k6repo.png)
+
+Git reveals a lot of information, and if the GitHub account is not
+configured to hide it, it appears in the data associated with the
+commit.
+
+By adding .patch at the end of the commit, we obtain details information about him.
+
+![image](/assets/img/post/k6patch.png)
+
+It is the first commit 4833adf79f1a87c45b09a6bf8ed4b0b56d4142fb that allows us to
+identify the email address used by Sh4d0wD4sch:
+thomas.mercier@spacepin-consulting.com
+
+**Flag : {thomas.mercier@spacepin-consulting.com_4833adf79f1a87c45b09a6bf8ed4b0b56d4142fb}**
+
+
+## K7 : Un écran de fumée
+
+We are looking for a company linked to the public activities of Hubert de La Tour du Pin and Thomas Mercier.
+
+Upon analyzing the website delatourdupin-depute.fr, both Hubert de La Tour du Pin and Thomas Mercier are mentioned.
+
+We recently obtained the email address:
+thomas.mercier@spacepin-consulting.com
+
+Technical analysis of this email domain revealed that spacepin-consulting.com was hosted on the same server as delatourdupin-depute.fr — specifically, the IP address 185.143.103.229.
+
+A tool like https://viewdns.info/ can help us to investigate.
+
+![image](/assets/img/post/k7truc.png)
+
+![image](/assets/img/post/k7truc2.png)
+
+But also to obtain the date on which these two domains were last seen in the same
+place, January 27, 2025.
+
+**Flag : {spacepin-consulting-sas_2025-01-27}**
+
+## K8 : OPsec failure II
+
+What name is the employee known by on social media? Find their
+date of birth.
+There are several avenues we can explore. Given that the most popular social network is
+Facebook, let's start our search there.
+We will use the password recovery form to check whether
+the address thomas.mercier@spacepin-consulting.com is associated with a
+Facebook account.
+After attempting this search, no account is linked to this email address.
+
+![image](/assets/img/post/k8img1.png)
+
+When searching for the username sh4d0wd4sch, we find a Medium account
+(https://medium.com/@sh4d0wd4sch ) with an interesting email address
+in the bio: sh4d0wd4sch@fabulous-dogs-paradise.com
+
+![image](/assets/img/post/k8img2.png)
+
+![image](/assets/img/post/k8img3.png)
+
+
+The latter allows us to identify a username: Thomas Mrcr, as well as a profile photo.
+By searching for this name directly on the network, we find his account and can retrieve his date of birth.
+The third step is to find the user's email address. To do this, we use the following command:
+`wget -l -o file.txt -f /path/to/database.json -h 1000 -r 10000 -r 100000 -r 10
+
+![image](/assets/img/post/k8img4.png)
+
+**Flag : {thomas-mrcr_05/09/1990}**
+
