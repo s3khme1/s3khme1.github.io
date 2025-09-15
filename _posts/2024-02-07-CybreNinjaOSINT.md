@@ -152,3 +152,63 @@ The third step is to find the user's email address. To do this, we use the follo
 
 **Flag : {thomas-mrcr_05/09/1990}**
 
+## OVNI dans le nord : I
+The person on the right is convinced that he saw a UFO in northern France.
+What is his last name? In what year does he think he saw Martians?
+In what city?
+
+![image](/assets/img/post/ovni1.png)
+
+Go to the Gaumont archives website (you can find it by clicking on the logo at the
+bottom left). Type “martians” into the search bar and you will find this:
+https://gparchives.com/index.php?urlaction=doc&rang=1
+The description gives us all the details.
+
+**Flag : {dupuis_1965_rouen}**
+
+## OVNI dans le nord : II
+
+On the day of the incident, Marius Dewilde was reading a weekly magazine. His
+wife had already gone upstairs to bed with their 3-year-old son, who was fast asleep
+.
+Outside, his dog was barking incessantly, which alerted Dewilde and allowed him to
+see little men and a flying saucer.
+He then alerted the gendarmes, then the police.
+What is his dog's name? In which city is the police station where Dewilde
+was able to speak to the police?
+
+A simple Google search leads us to some clues.
+In particular, this very well-documented blog: https://oncle-
+dom.fr/paranormal/ovni/confusions/bolides/quarouble/quarouble.htm
+The only catch is the name of the police station, because Dewilde first went
+to a gendarmerie (in Blanc Misseron), but it was closed.
+
+**Flag : {onnaing}**
+
+## OVNI dans le nord : III
+
+From the moment Dewilde told his story, numerous theories began to be put forward by people with varying degrees of expertise.
+In the 18th issue of a magazine discussing conspiracy theories about classified information, a reader wrote a short article with this photo.
+What is this reader's username?
+
+![image](/assets/img/post/ovni3.png)
+
+On trouve le numéro 18 de la revue Top Secret
+En parcourant le magazine on trouve la photo et le pseudo
+http://seclin.tourisme.free.fr/Magazine_Top_Secret_num_18.pdf
+
+**Flag : {mulder}**
+
+## OVNI dans le nord : III
+
+The most far-fetched theories have been put forward about the UFO that Marius believes he saw.
+Some believe that the same UFO crashed on an island after passing over northern France.
+Which country does the island belong to where the UFO seen in the photo crashed?
+The UFO was spotted by Marius, a 25-year-old man from the town of Saint-Jean-de-Luz in the Basque region of France.
+
+![image](/assets/img/post/ovni4.png)
+
+You have to do some research on the various UFOs that have crashed on islands, and
+you find that this one crashed on Starbuck Island, which belongs to Kiribati.
+
+**Flag : {kiribati}**
