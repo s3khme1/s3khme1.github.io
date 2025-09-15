@@ -63,8 +63,25 @@ Let's take a look at this github account.
 ![image](/assets/img/post/k3Git.png)
 
 As we can see there is a repo on it.
+The repo is called 'etoiles'
+![image](/assets/img/post/k3Clone.png)
 
+There is two files creating and supposly creating an IP adress coming from a poeme.
+The poeme is not sorted. We have to look for the right poeme on internet then order it.
+Once sorted we can execute the file then we get a IP adress '185.143.103.229'
+Looking for this IP as a website we can see the name of a certain 'Hubert de La Tour du Pin'
+**Flag : {hubert-de-la-tour-du-pin}**
 
+## K4 : Une histoire de détails
+We gotta see where this men was mi-december 2024
+Looking this name on google we can easly find an LinkedIn acc.
+![image](/assets/img/post/k4LinkedIn.png)
+
+There is a video on this website. 
+
+Too long to explain but let's see the flag.
+
+**Flag : {clermont-ferrand}**
 
 
 ## K5 : Une sacrée histoire
